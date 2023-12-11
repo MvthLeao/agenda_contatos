@@ -1,4 +1,4 @@
-const form = document.getElementById('contact-form');
+const form = document.getElementById('form-elements');
 const clear = document.getElementById('clear');
 const contatos = []
 
